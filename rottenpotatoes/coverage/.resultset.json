@@ -13,8 +13,8 @@
       "/home/ubuntu/workspace/rottenpotatoes/app/helpers/movies_helper.rb": [
         1,
         null,
-        1,
-        0,
+        null,
+        null,
         null,
         null
       ],
@@ -112,6 +112,6 @@
         null
       ]
     },
-    "timestamp": 1479874334
+    "timestamp": 1479876380
   }
 }
